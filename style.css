@@ -1,0 +1,46 @@
+span{
+    height: 30px;
+    font-size: 30px;
+}
+body{
+    text-align: center;
+    background-color: #67b6b2;
+    background-image: url("background.jpg");  
+    background-repeat: no-repeat;
+    background-size: auto;   
+    background-size:100%;
+}
+.full_body{
+    text-align: center;
+}
+#head{
+    margin-top: 15px;
+}
+#head{
+    font-size: 25px;
+    font-family: 'Open Sans',sans-serif;
+    border-radius: 10px;
+  }
+.my_span{
+    border-right: 6px solid black;
+    height: 30px;
+    font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px solid black;
+  width: 350px;
+  height: 300px; 
+}
+#emotion_name ,#emotion_name_2  
+{
+  color: black;
+  font-size: 20px;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji{
+  font-size: 40px;
+}
